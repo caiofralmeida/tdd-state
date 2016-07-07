@@ -1,0 +1,13 @@
+{
+    "name": "caiofralmeida/tdd-state",
+    "version": "1.0",
+
+    "autoload": {
+        "psr-4": {
+            "CaioFRAlmeida\\TddState\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    }
+}
