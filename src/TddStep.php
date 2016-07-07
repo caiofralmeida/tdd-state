@@ -5,7 +5,7 @@ namespace CaioFRAlmeida\TddState;
 interface TddStep
 {
     /**
-     * @return Cycle
+     * @return null
      */
     public function next(Tdd $tdd);
 
